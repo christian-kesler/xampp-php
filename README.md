@@ -36,7 +36,7 @@ Cloning the Repository via Git is ideal, but downloading a zip and extracting it
 </li>
 <li>Navigate to the htdocs folder in XAMPP and create a new folder called xampp-php</li>
 <li>Install the project files in that empty folder</li>
-<li>WARNING!  You will need to create a compatible MySQL database named orb-catalog, table named orbs, with a primary key named id, varchar named title, varchar named spells, varchar named email, and timestamp named date_created before the queries will work correctly.  </li>
+<li>WARNING!  You will need to create a compatible MySQL database named orb-catalog and table named orbs, with a primary key named id, varchar named title, varchar named spells, varchar named email, and timestamp named date_created before the queries will work correctly.  </li>
 </ul>
 
 <h4>Execution</h4>
