@@ -1,7 +1,7 @@
 <html>
 <h2><a target='blank' href="https://github.com/christian-kesler/xampp-php">My First PHP Project (GitHub)</a></h2>
 <p>
-This is project serves as a learning grounds for the PHP scripting language, which I have not used as of yet.  
+This is project serves as a learning grounds for the PHP scripting language, which I have never used prior to this project.  
 </p>
 
 <hr>
@@ -20,6 +20,9 @@ Windows 10* || <a target='blank' href='https://www.microsoft.com/en-us/software-
 <li>
 Visual Studio Code || <a target='blank' href='https://code.visualstudio.com/download'>Link to Download Visual Studio Code</a>
 </li>
+<li>
+XAMPP || <a target='blank' href='https://www.apachefriends.org/download.html'>Link to Download XAMPP</a>
+</li>
 </ul>
 <p><i>*potentially not required, but it is what I used and therefore know for certain that it works</i></p>
 
@@ -31,22 +34,27 @@ Download the Project Files from the Project Repository on GitHub || <a target='b
 <li>
 Cloning the Repository via Git is ideal, but downloading a zip and extracting it will also work || <a target='blank' href='https://git-scm.com/downloads'>Link to Download Git</a>
 </li>
+<li>Navigate to the htdocs folder in XAMPP and create a new folder called xampp-php</li>
+<li>Install the project files in that empty folder</li>
+<li>WARNING!  You will need to create a compatible MySQL database named orb-catalog, table named orbs, with a primary key named id, varchar named title, varchar named spells, varchar named email, and timestamp named date_created before the queries will work correctly.  </li>
 </ul>
 
 <h4>Execution</h4>
 <ul>
-<li>TBD</li>
-<ul>
-</ul>
+<li>From the XAMPP control panel, click "start" on the Apache and MySQL modules.  Then click the "Admin" button on the Apache module.  From the browser page that is populated, navigate to the following url: http://localhost/xampp-php/ 
+</li>
 </li>
 </ul>
 
 <h4>Help and Resources</h4>
 <p>
-These resources helped me get started with PHP
+These resources helped me immensely when creating this project
 <ul>
 <li>
 This tutorial helped me get started with PHP || https://www.youtube.com/watch?v=qVU3V0A05k8&ab_channel=DaniKrossing
+</li>
+<li>
+This tutorial showed me exactly how to create this project and set up all necessary dependencies || https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o
 </li>
 </ul>
 </p>
