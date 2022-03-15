@@ -1,5 +1,5 @@
 <html>
-<h2><a target='blank' href="https://github.com/christian-kesler/my-first-php-project">My First PHP Project (GitHub)</a></h2>
+<h2><a target='blank' href="https://github.com/christian-kesler/xampp-php">My First PHP Project (GitHub)</a></h2>
 <p>
 This is project serves as a learning grounds for the PHP scripting language, which I have not used as of yet.  
 </p>
