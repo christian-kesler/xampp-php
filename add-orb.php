@@ -67,7 +67,7 @@
 <!DOCTYPE html>
 <html>
 	
-	<?php include('resources\templates\populated-header.php'); ?>
+	<?php include('resources\populated-header.php'); ?>
 
 	<section class="container grey-text">
 		<h4 class="center">Add an Orb</h4>
@@ -90,6 +90,6 @@
 		</form>
 	</section>
 
-	<?php include('resources\templates\populated-footer.php'); ?>
+	<?php include('resources\populated-footer.php'); ?>
 
 </html>

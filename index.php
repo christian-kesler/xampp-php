@@ -29,7 +29,7 @@
 </head>
 <body>
 
-	<?php include('resources\templates\populated-header.php'); ?>
+	<?php include('resources\populated-header.php'); ?>
 
 	<h4 class="center grey-text">All Orbs in Catalog</h4>
 
@@ -61,7 +61,7 @@
 		</div>
 	</div>
 
-	<?php include('resources\templates\populated-footer.php'); ?>
+	<?php include('resources\populated-footer.php'); ?>
 
 </body>
 </html>
