@@ -1,6 +1,5 @@
 <?php
 
-
 	include('config/db_connect.php');
 
 	// write query for all orbs
